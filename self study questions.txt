@@ -1,0 +1,23 @@
+1. Mention two parts of Express that you learned about this week.
+
+Express is a light and unopinionated framework that sits on top of Node.js and makes it easier to create web applications and services.
+
+We can use express to build web applications and build RESTful web services that work with JSON.
+
+2. Describe Middleware?
+
+Middleware provide a way to extend the features provided by the Express framework.
+
+It provides an easy way to add functionality to our code.
+
+3. Describe a Resource? It's a database that contains info
+
+4. What can the API return to help clients know if a request was successful?
+
+Response Status Code
+
+5. How can we partition our application into sub-applications?
+
+By using express routers which makes it easier to read the application
+
+
